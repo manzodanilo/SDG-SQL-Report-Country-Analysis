@@ -1,2 +1,2 @@
-# data-analysis-progects
-where I will share my data analysis progects
+# SQL-analysis-progjects
+where I will share my SQL analysis progects I completed during the Start 2 Impact course
