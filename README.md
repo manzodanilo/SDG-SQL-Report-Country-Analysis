@@ -21,8 +21,8 @@ The aim is to identify countries that stand out positively in terms of economic 
 
 ## Data
 
-- **Global Country Information Dataset 2023** (table `global_country_information_2023`)
-- **Global Data on Sustainable Energy, 2000–2020** (table `data_on_sustainable_energy`)
+- **[Global Country Information Dataset 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023)** (table `global_country_information_2023`)
+- **[Global Data on Sustainable Energy, 2000–2020](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy)** (table `data_on_sustainable_energy`)
 
 ## Method
 
