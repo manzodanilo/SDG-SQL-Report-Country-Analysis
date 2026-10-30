@@ -78,6 +78,5 @@ The labels inside the SQL code are in Italian (`A rischio`, `Segnali favorevoli`
 
 ## Author
 
-**Danilo Manzo**: junior Data Analyst (Excel, SQL, Python)<br>
-Email: manzodanilo1@gmail.com
-LinkedIn: [linkedin.com/in/danilomanzo](https://www.linkedin.com/in/danilomanzo)
+**Danilo Manzo**, junior Data Analyst (Excel, SQL, Python)<br>
+[Portfolio](https://danilomanzo.eu) · [LinkedIn](https://www.linkedin.com/in/danilomanzo) · [Email](mailto:manzodanilo1@gmail.com)
