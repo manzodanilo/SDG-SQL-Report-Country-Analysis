@@ -1,3 +1,4 @@
+![banner](banner-sql.png)
 # SDG & SQL Report: Country Analysis
 
 **Benchmarking the world's 20 largest economies on growth, health, inequality and climate, using PostgreSQL.**
